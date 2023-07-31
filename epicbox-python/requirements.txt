@@ -287,6 +287,8 @@ pillow==9.0.0
     #   imageio
     #   matplotlib
     #   scikit-image
+plotly==5.15.0
+    # via -r requirements.in
 pluggy==1.0.0
     # via pytest
 prison==0.2.1
